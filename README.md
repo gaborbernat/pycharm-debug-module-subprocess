@@ -12,7 +12,7 @@ pydev debugger: process 15931 is connecting
 
 pydev debugger: process 15932 is connecting
 
-No module named /Users/bgabor8/git/github/pycharm-debug-module-subprocess/pug/helper.py
+No module named /Users/bernat/git/github/pycharm-debug-module-subprocess/pug/helper.py
 b''
 
 Process finished with exit code 0
